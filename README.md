@@ -142,6 +142,8 @@ linklist for style guides / best practices (also pattern libraries, design syste
 
 [Zurb Foundation](http://foundation.zurb.com/sites/docs/)
 
+[Zeplin.io](http://zeplin.io/)
+
 [Web Field Manual](http://webfieldmanual.com/index.html)
 
 
