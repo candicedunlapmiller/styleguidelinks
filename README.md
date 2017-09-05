@@ -147,7 +147,9 @@ linklist for style guides / best practices (also pattern libraries, design syste
 [Web Field Manual](http://webfieldmanual.com/index.html)
 
 
-## Craft Library Plugin (Sketch)
+## Craft Library Plugin  / Sketch
+[Sketch Libraries Beta](https://medium.com/ux-power-tools/sketch-libraries-how-they-work-and-the-crazy-stuff-you-can-do-with-them-fc10f142ac80)
+
 [Designing with Craft](https://medium.com/minitheory-design/holy-sh-t-designing-with-real-data-in-real-time-in-sketch-and-photoshop-1b3610c77a59)
 
 [Invision Support Docs](https://support.invisionapp.com/hc/en-us/articles/208434046-Craft-Introduction-to-the-Library-plugin)
