@@ -180,3 +180,20 @@ linklist for style guides / best practices (also pattern libraries, design syste
 
 ## Animation Frameworks
 [Lottie by AirBNB (Animation Framework)](http://airbnb.design/lottie/)
+
+## Process Research
+[Yahoo Case Study[(http://boxesandarrows.com/implementing-a-pattern-library-in-the-real-world-a-yahoo-case-study/)
+[Slideshare by Wolf Bruning](https://www.slideshare.net/WolfBruening/how-to-build-the-perfect-pattern-libraryy)
+[styletiles](http://styletil.es/)
+[BoagWorld](https://boagworld.com/design/pattern-library/)
+[Creating a Pattern Library](https://medium.com/sumo-logic-ux/creating-a-pattern-library-18cce0f901b4)
+[Taking pattern library to the next level](https://www.smashingmagazine.com/taking-pattern-libraries-next-level/)
+[Building and Maintaining Pattern Libraries](https://moduscreate.com/building-maintaining-pattern-libraries/)
+[Atomic Design - Ch5 - Maintaining Design Systems](http://atomicdesign.bradfrost.com/chapter-5/)
+[approval workflow](https://www.signavio.com/post/approval-workflow-modelling-patterns/)
+[Super detailed component library proposal doc](https://www.crownpeak.com/Connect/PDF/developers_and_partners/solutions/solutions_reference_guides/documents/design-patterns-best-practices/playbooks/CrownPeak-Playbook-The-Component-Library.pdf)
+[Quora search for later](https://www.quora.com/unanswered/Whats-the-best-process-to-build-a-pattern-library)
+
+
+
+
