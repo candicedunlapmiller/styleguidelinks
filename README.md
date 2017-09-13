@@ -5,6 +5,8 @@ linklist for style guides / best practices (also pattern libraries, design syste
 [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/table-of-contents/)
 
 ## Style Guide Examples (Pattern Libraries / Design Languages)
+[Lonely Planet Rizzo](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
+
 [Marvel App](https://marvelapp.com/styleguide/utility/text-manipulation)
 
 [PrimerCSS](http://primercss.io/layout/)
