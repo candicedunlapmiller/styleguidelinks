@@ -193,7 +193,17 @@ linklist for style guides / best practices (also pattern libraries, design syste
 [approval workflow](https://www.signavio.com/post/approval-workflow-modelling-patterns/)
 [Super detailed component library proposal doc](https://www.crownpeak.com/Connect/PDF/developers_and_partners/solutions/solutions_reference_guides/documents/design-patterns-best-practices/playbooks/CrownPeak-Playbook-The-Component-Library.pdf)
 [Quora search for later](https://www.quora.com/unanswered/Whats-the-best-process-to-build-a-pattern-library)
+[8 principles of great UX standards programs[(https://medium.com/@nathanacurtis/8-principles-of-great-ux-standards-programs-1749842f35b6)
 
+
+## Labels / Definitions
+Style Guide - Visual design-specific elements
+Pattern Library
+Design System
+Design Language
+Component Library (code components / design components)
+User Experience Standards
+Toolkit
 
 
 
