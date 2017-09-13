@@ -196,6 +196,7 @@ linklist for style guides / best practices (also pattern libraries, design syste
 [Super detailed component library proposal doc](https://www.crownpeak.com/Connect/PDF/developers_and_partners/solutions/solutions_reference_guides/documents/design-patterns-best-practices/playbooks/CrownPeak-Playbook-The-Component-Library.pdf)
 [Quora search for later](https://www.quora.com/unanswered/Whats-the-best-process-to-build-a-pattern-library)
 [8 principles of great UX standards programs[(https://medium.com/@nathanacurtis/8-principles-of-great-ux-standards-programs-1749842f35b6)
+[chasing the holy grail](https://medium.com/slalom-engineering/chasing-the-holy-grail-bbc0b7cce365)
 
 
 ## Labels / Definitions
