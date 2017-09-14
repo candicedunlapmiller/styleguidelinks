@@ -55,10 +55,17 @@ linklist for style guides / best practices (also pattern libraries, design syste
 
 ## Brand-specific:
 [Tutsplus](https://styleguide.tutsplus.com/)
+
 [NY City Transit Authority](https://standardsmanual.com/)
+
 [NASA 1975 Style Manual (old but interesting!)](https://www.nasa.gov/sites/default/files/atoms/files/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
+
 [Open Table](http://brand.opentable.com/)
+
+
 [Buffer](https://buffer.com/style-guide)
+
+[Atlassian](https://atlassian.design/)
 
 
 **Cap1?
@@ -185,17 +192,28 @@ linklist for style guides / best practices (also pattern libraries, design syste
 
 ## Process Research
 [Yahoo Case Study[(http://boxesandarrows.com/implementing-a-pattern-library-in-the-real-world-a-yahoo-case-study/)
+
 [Slideshare by Wolf Bruning](https://www.slideshare.net/WolfBruening/how-to-build-the-perfect-pattern-libraryy)
+
 [styletiles](http://styletil.es/)
 [BoagWorld](https://boagworld.com/design/pattern-library/)
+
 [Creating a Pattern Library](https://medium.com/sumo-logic-ux/creating-a-pattern-library-18cce0f901b4)
+
 [Taking pattern library to the next level](https://www.smashingmagazine.com/taking-pattern-libraries-next-level/)
+
 [Building and Maintaining Pattern Libraries](https://moduscreate.com/building-maintaining-pattern-libraries/)
+
 [Atomic Design - Ch5 - Maintaining Design Systems](http://atomicdesign.bradfrost.com/chapter-5/)
+
 [approval workflow](https://www.signavio.com/post/approval-workflow-modelling-patterns/)
+
 [Super detailed component library proposal doc](https://www.crownpeak.com/Connect/PDF/developers_and_partners/solutions/solutions_reference_guides/documents/design-patterns-best-practices/playbooks/CrownPeak-Playbook-The-Component-Library.pdf)
+
 [Quora search for later](https://www.quora.com/unanswered/Whats-the-best-process-to-build-a-pattern-library)
+
 [8 principles of great UX standards programs[(https://medium.com/@nathanacurtis/8-principles-of-great-ux-standards-programs-1749842f35b6)
+
 [chasing the holy grail](https://medium.com/slalom-engineering/chasing-the-holy-grail-bbc0b7cce365)
 
 
