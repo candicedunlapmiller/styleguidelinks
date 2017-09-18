@@ -31,6 +31,8 @@ linklist for style guides / best practices (also pattern libraries, design syste
 
 [Uber Brand Guidelines](https://brand.uber.com/)
 
+[Uber Dev Guidelines](https://developer.uber.com/docs/riders/guides/design-guidelines)
+
 [Code For America](http://codeforamerica.clearleft.com/)
 
 [Codepen Design Patterns](http://codepen.io/guide/)
