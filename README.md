@@ -147,7 +147,9 @@ linklist for style guides / best practices (also pattern libraries, design syste
 
 [Ground Works CSS](https://groundworkcss.github.io/)
 
-[Angular Material](https://material.angularjs.org/latest/)
+[AngularJS Material](https://material.angularjs.org/latest/)
+
+[Angular Material](https://material.angular.io/)
 
 [Bootstrap](http://getbootstrap.com/getting-started/)
 
