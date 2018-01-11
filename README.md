@@ -82,6 +82,8 @@ linklist for style guides / best practices (also pattern libraries, design syste
 
 
 ## Articles
+[Hubspot - How building a design system empowers your team to focus on people — not pixels.](https://medium.com/hubspot-product/people-over-pixels-b962c359a14d)
+
 [Creating Style Guides](https://alistapart.com/article/creating-style-guides)
 
 [Painting with Code AirBNB](http://airbnb.design/painting-with-code/)
