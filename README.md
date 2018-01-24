@@ -8,6 +8,7 @@ linklist for style guides / best practices (also pattern libraries, design syste
 
 ## Style Guide Examples (Pattern Libraries / Design Languages)
 [Nachos (Trello)](https://design.trello.com/)
+
 [Lonely Planet Rizzo](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
 
 [Marvel App](https://marvelapp.com/styleguide/utility/text-manipulation)
@@ -82,6 +83,8 @@ linklist for style guides / best practices (also pattern libraries, design syste
 
 
 ## Articles
+[https://uxplanet.org/why-are-design-systems-so-important-dda6225be5d7](Why are Design Systems so Important?)
+
 [Hubspot - How building a design system empowers your team to focus on people — not pixels.](https://medium.com/hubspot-product/people-over-pixels-b962c359a14d)
 
 [Creating Style Guides](https://alistapart.com/article/creating-style-guides)
