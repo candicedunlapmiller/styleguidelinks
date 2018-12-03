@@ -7,11 +7,15 @@ linklist for style guides / best practices (also pattern libraries, design syste
 [Design Systems Handbook](https://www.designbetter.co/design-systems-handbook)
 
 ## Style Guide Examples (Pattern Libraries / Design Languages)
+[Invision Design System](https://www.invisionapp.com/blog/design-systems/)
+
 [Nachos (Trello)](https://design.trello.com/)
 
 [Lonely Planet Rizzo](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours)
 
 [Marvel App](https://marvelapp.com/styleguide/utility/text-manipulation)
+
+[Marvel App New](https://blog.marvelapp.com/ooux/)
 
 [PrimerCSS](http://primercss.io/layout/)
 
@@ -73,6 +77,8 @@ linklist for style guides / best practices (also pattern libraries, design syste
 
 [Atlassian](https://atlassian.design/)
 
+[Slack](https://slack.engineering/rebuilding-slack-com-b124c405c193)
+
 
 **Cap1?
 
@@ -83,6 +89,12 @@ linklist for style guides / best practices (also pattern libraries, design syste
 
 
 ## Articles
+[Angular Components Everywhere](https://moduscreate.com/blog/angular-elements-ngcomponents-everywhere/)
+
+[Beyond Bootstrap - moving from UI Toolkit to Component Library](https://blog.hichroma.com/beyond-bootstrap-moving-from-ui-toolkit-to-component-library-f0a34f05e98b)
+
+[CSS Architecure for Design Systems](http://bradfrost.com/blog/post/css-architecture-for-design-systems/)
+
 [https://uxplanet.org/why-are-design-systems-so-important-dda6225be5d7](Why are Design Systems so Important?)
 
 [Hubspot - How building a design system empowers your team to focus on people — not pixels.](https://medium.com/hubspot-product/people-over-pixels-b962c359a14d)
